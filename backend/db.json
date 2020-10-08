@@ -2,33 +2,28 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
-    },
-    {
-      "id": 2,
       "name": "Notebook Mac Pro",
       "price": 12000.89
     },
     {
-      "id": 3,
-      "name": "Sansung S20+ Ultra",
-      "price": "7520.89"
+      "name": "Creme de Avelã",
+      "price": "35.90",
+      "id": 2
     },
     {
-      "name": "Lapis Preto Básico",
-      "price": "1.50",
+      "name": "Nutella",
+      "price": "45.50",
+      "id": 3
+    },
+    {
+      "name": "Ar condicionado",
+      "price": "1950",
       "id": 4
     },
     {
-      "name": "lar test",
-      "price": "99.90",
+      "name": "Arroz",
+      "price": "5590",
       "id": 5
-    },
-    {
-      "name": "Creme Facial Nivea",
-      "price": "35.90",
-      "id": 6
     }
   ]
 }
